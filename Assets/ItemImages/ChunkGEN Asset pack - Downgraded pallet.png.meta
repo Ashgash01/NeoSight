@@ -1,0 +1,3172 @@
+fileFormatVersion: 2
+guid: d0cc585daf3569d4db4cc09b2bfc5e6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4789962827496005109
+    second: ChunkGEN Asset pack - Downgraded pallet_0
+  - first:
+      213: 7692350503121846559
+    second: ChunkGEN Asset pack - Downgraded pallet_1
+  - first:
+      213: -5686073122773429878
+    second: ChunkGEN Asset pack - Downgraded pallet_2
+  - first:
+      213: -469299807501890529
+    second: ChunkGEN Asset pack - Downgraded pallet_3
+  - first:
+      213: 3604135106985871973
+    second: ChunkGEN Asset pack - Downgraded pallet_4
+  - first:
+      213: -4840634684033229900
+    second: ChunkGEN Asset pack - Downgraded pallet_5
+  - first:
+      213: 633145125574609706
+    second: ChunkGEN Asset pack - Downgraded pallet_6
+  - first:
+      213: 1736692250747328516
+    second: ChunkGEN Asset pack - Downgraded pallet_7
+  - first:
+      213: -8579305821006961090
+    second: ChunkGEN Asset pack - Downgraded pallet_8
+  - first:
+      213: 5406935602305314871
+    second: ChunkGEN Asset pack - Downgraded pallet_9
+  - first:
+      213: 2510980239247179964
+    second: ChunkGEN Asset pack - Downgraded pallet_10
+  - first:
+      213: 1937558493633116315
+    second: ChunkGEN Asset pack - Downgraded pallet_11
+  - first:
+      213: -4136136784063196703
+    second: ChunkGEN Asset pack - Downgraded pallet_12
+  - first:
+      213: 8494173906613638599
+    second: ChunkGEN Asset pack - Downgraded pallet_13
+  - first:
+      213: -6856994707434400856
+    second: ChunkGEN Asset pack - Downgraded pallet_14
+  - first:
+      213: 1381865666811604708
+    second: ChunkGEN Asset pack - Downgraded pallet_15
+  - first:
+      213: 8204200977906481717
+    second: ChunkGEN Asset pack - Downgraded pallet_16
+  - first:
+      213: -5483756965371375110
+    second: ChunkGEN Asset pack - Downgraded pallet_17
+  - first:
+      213: 377178232728438430
+    second: ChunkGEN Asset pack - Downgraded pallet_18
+  - first:
+      213: -5666925699713533758
+    second: ChunkGEN Asset pack - Downgraded pallet_19
+  - first:
+      213: 2859185296288272461
+    second: ChunkGEN Asset pack - Downgraded pallet_20
+  - first:
+      213: -5630000007244922235
+    second: ChunkGEN Asset pack - Downgraded pallet_21
+  - first:
+      213: -1629971645540641319
+    second: ChunkGEN Asset pack - Downgraded pallet_22
+  - first:
+      213: -5950180593443041292
+    second: ChunkGEN Asset pack - Downgraded pallet_23
+  - first:
+      213: 6537520258990138874
+    second: ChunkGEN Asset pack - Downgraded pallet_24
+  - first:
+      213: 6000013924398573057
+    second: ChunkGEN Asset pack - Downgraded pallet_25
+  - first:
+      213: 2620296658767463010
+    second: ChunkGEN Asset pack - Downgraded pallet_26
+  - first:
+      213: 4946062098432733764
+    second: ChunkGEN Asset pack - Downgraded pallet_27
+  - first:
+      213: -4762841661084498116
+    second: ChunkGEN Asset pack - Downgraded pallet_28
+  - first:
+      213: -2336070762902573404
+    second: ChunkGEN Asset pack - Downgraded pallet_29
+  - first:
+      213: 9132500998492383727
+    second: ChunkGEN Asset pack - Downgraded pallet_30
+  - first:
+      213: 1627028491049093288
+    second: ChunkGEN Asset pack - Downgraded pallet_31
+  - first:
+      213: -1900588618844556928
+    second: ChunkGEN Asset pack - Downgraded pallet_32
+  - first:
+      213: -1921034626997615473
+    second: ChunkGEN Asset pack - Downgraded pallet_33
+  - first:
+      213: 7307011492172683827
+    second: ChunkGEN Asset pack - Downgraded pallet_34
+  - first:
+      213: -3787621980916295077
+    second: ChunkGEN Asset pack - Downgraded pallet_35
+  - first:
+      213: 1279127170061695256
+    second: ChunkGEN Asset pack - Downgraded pallet_36
+  - first:
+      213: -1753463849973161518
+    second: ChunkGEN Asset pack - Downgraded pallet_37
+  - first:
+      213: 4457687512683917062
+    second: ChunkGEN Asset pack - Downgraded pallet_38
+  - first:
+      213: -1537598942273540227
+    second: ChunkGEN Asset pack - Downgraded pallet_39
+  - first:
+      213: 3079435750681605377
+    second: ChunkGEN Asset pack - Downgraded pallet_40
+  - first:
+      213: 7845969745775765162
+    second: ChunkGEN Asset pack - Downgraded pallet_41
+  - first:
+      213: 4399678854412367384
+    second: ChunkGEN Asset pack - Downgraded pallet_42
+  - first:
+      213: 3558569986690535161
+    second: ChunkGEN Asset pack - Downgraded pallet_43
+  - first:
+      213: -7979792716534741937
+    second: ChunkGEN Asset pack - Downgraded pallet_44
+  - first:
+      213: -3298940146547891578
+    second: ChunkGEN Asset pack - Downgraded pallet_45
+  - first:
+      213: -9018827891465822400
+    second: ChunkGEN Asset pack - Downgraded pallet_46
+  - first:
+      213: 2802936510218494264
+    second: ChunkGEN Asset pack - Downgraded pallet_47
+  - first:
+      213: 5476180687551066531
+    second: ChunkGEN Asset pack - Downgraded pallet_48
+  - first:
+      213: 8369848703413464626
+    second: ChunkGEN Asset pack - Downgraded pallet_49
+  - first:
+      213: -3233043795678989718
+    second: ChunkGEN Asset pack - Downgraded pallet_50
+  - first:
+      213: -6521242562288541683
+    second: ChunkGEN Asset pack - Downgraded pallet_51
+  - first:
+      213: 4626680350414563048
+    second: ChunkGEN Asset pack - Downgraded pallet_52
+  - first:
+      213: 587236201105549401
+    second: ChunkGEN Asset pack - Downgraded pallet_53
+  - first:
+      213: -9208145672714348058
+    second: ChunkGEN Asset pack - Downgraded pallet_54
+  - first:
+      213: 718532439789259882
+    second: ChunkGEN Asset pack - Downgraded pallet_55
+  - first:
+      213: -8750327941000110643
+    second: ChunkGEN Asset pack - Downgraded pallet_56
+  - first:
+      213: 6811963325614830169
+    second: ChunkGEN Asset pack - Downgraded pallet_57
+  - first:
+      213: 4706564919924319259
+    second: ChunkGEN Asset pack - Downgraded pallet_58
+  - first:
+      213: 6904422656829164800
+    second: ChunkGEN Asset pack - Downgraded pallet_59
+  - first:
+      213: -2554467981988251856
+    second: ChunkGEN Asset pack - Downgraded pallet_60
+  - first:
+      213: 3820621252806129828
+    second: ChunkGEN Asset pack - Downgraded pallet_61
+  - first:
+      213: 7131858818016042268
+    second: ChunkGEN Asset pack - Downgraded pallet_62
+  - first:
+      213: 271106591720867814
+    second: ChunkGEN Asset pack - Downgraded pallet_63
+  - first:
+      213: -1946745744880795864
+    second: ChunkGEN Asset pack - Downgraded pallet_64
+  - first:
+      213: 8229646325161697232
+    second: ChunkGEN Asset pack - Downgraded pallet_65
+  - first:
+      213: 5102226123596459371
+    second: ChunkGEN Asset pack - Downgraded pallet_66
+  - first:
+      213: 5394033994379297146
+    second: ChunkGEN Asset pack - Downgraded pallet_67
+  - first:
+      213: 4391702973474582465
+    second: ChunkGEN Asset pack - Downgraded pallet_68
+  - first:
+      213: 1255729828409427310
+    second: ChunkGEN Asset pack - Downgraded pallet_69
+  - first:
+      213: -1534423480030906401
+    second: ChunkGEN Asset pack - Downgraded pallet_70
+  - first:
+      213: -2500607293860380836
+    second: ChunkGEN Asset pack - Downgraded pallet_71
+  - first:
+      213: 4288656677620977370
+    second: ChunkGEN Asset pack - Downgraded pallet_72
+  - first:
+      213: 255663130533332088
+    second: ChunkGEN Asset pack - Downgraded pallet_73
+  - first:
+      213: 9156523815640492820
+    second: ChunkGEN Asset pack - Downgraded pallet_74
+  - first:
+      213: 6787082624304600723
+    second: ChunkGEN Asset pack - Downgraded pallet_75
+  - first:
+      213: 2133192820610242486
+    second: ChunkGEN Asset pack - Downgraded pallet_76
+  - first:
+      213: -1955353955839779191
+    second: ChunkGEN Asset pack - Downgraded pallet_77
+  - first:
+      213: 8848282550750538076
+    second: ChunkGEN Asset pack - Downgraded pallet_78
+  - first:
+      213: 2773574057886364799
+    second: ChunkGEN Asset pack - Downgraded pallet_79
+  - first:
+      213: -2383778435704361762
+    second: ChunkGEN Asset pack - Downgraded pallet_80
+  - first:
+      213: 4607472889166557153
+    second: ChunkGEN Asset pack - Downgraded pallet_81
+  - first:
+      213: 7016283753263369278
+    second: ChunkGEN Asset pack - Downgraded pallet_82
+  - first:
+      213: 820765410636050028
+    second: ChunkGEN Asset pack - Downgraded pallet_83
+  - first:
+      213: 2395504717801817100
+    second: ChunkGEN Asset pack - Downgraded pallet_84
+  - first:
+      213: 6198742703704422442
+    second: ChunkGEN Asset pack - Downgraded pallet_85
+  - first:
+      213: -1147518777411469981
+    second: ChunkGEN Asset pack - Downgraded pallet_86
+  - first:
+      213: 8026444898774246090
+    second: ChunkGEN Asset pack - Downgraded pallet_87
+  - first:
+      213: -583581868912542384
+    second: ChunkGEN Asset pack - Downgraded pallet_88
+  - first:
+      213: -5636673359251516795
+    second: ChunkGEN Asset pack - Downgraded pallet_89
+  - first:
+      213: 673231731821058620
+    second: ChunkGEN Asset pack - Downgraded pallet_90
+  - first:
+      213: 6261952259298075475
+    second: ChunkGEN Asset pack - Downgraded pallet_91
+  - first:
+      213: -6677325212474434327
+    second: ChunkGEN Asset pack - Downgraded pallet_92
+  - first:
+      213: 1833244766674597668
+    second: ChunkGEN Asset pack - Downgraded pallet_93
+  - first:
+      213: 3302180036618005087
+    second: ChunkGEN Asset pack - Downgraded pallet_94
+  - first:
+      213: -6422391806406683891
+    second: ChunkGEN Asset pack - Downgraded pallet_95
+  - first:
+      213: 1225114691104452227
+    second: ChunkGEN Asset pack - Downgraded pallet_96
+  - first:
+      213: -3835725854591067325
+    second: ChunkGEN Asset pack - Downgraded pallet_97
+  - first:
+      213: -7456007153300884873
+    second: ChunkGEN Asset pack - Downgraded pallet_98
+  - first:
+      213: -6761690747866622887
+    second: ChunkGEN Asset pack - Downgraded pallet_99
+  - first:
+      213: -8242343163146262243
+    second: ChunkGEN Asset pack - Downgraded pallet_100
+  - first:
+      213: 7457136170323961133
+    second: ChunkGEN Asset pack - Downgraded pallet_101
+  - first:
+      213: 2580121958816023068
+    second: ChunkGEN Asset pack - Downgraded pallet_102
+  - first:
+      213: -8138465157772613007
+    second: ChunkGEN Asset pack - Downgraded pallet_103
+  - first:
+      213: 8935205548625840530
+    second: ChunkGEN Asset pack - Downgraded pallet_104
+  - first:
+      213: 3661435492941446514
+    second: ChunkGEN Asset pack - Downgraded pallet_105
+  - first:
+      213: 1737453268000031069
+    second: ChunkGEN Asset pack - Downgraded pallet_106
+  - first:
+      213: -1869873716609246300
+    second: ChunkGEN Asset pack - Downgraded pallet_107
+  - first:
+      213: -8198130235182535605
+    second: ChunkGEN Asset pack - Downgraded pallet_108
+  - first:
+      213: -8274299295614656084
+    second: ChunkGEN Asset pack - Downgraded pallet_109
+  - first:
+      213: -7064178426769109209
+    second: ChunkGEN Asset pack - Downgraded pallet_110
+  - first:
+      213: 2061989037182681506
+    second: ChunkGEN Asset pack - Downgraded pallet_111
+  - first:
+      213: -1339208455660177174
+    second: ChunkGEN Asset pack - Downgraded pallet_112
+  - first:
+      213: -3671629178626358139
+    second: ChunkGEN Asset pack - Downgraded pallet_113
+  - first:
+      213: -111132174868598543
+    second: ChunkGEN Asset pack - Downgraded pallet_114
+  - first:
+      213: -7872945468285499552
+    second: ChunkGEN Asset pack - Downgraded pallet_115
+  - first:
+      213: -7765025694062514437
+    second: ChunkGEN Asset pack - Downgraded pallet_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0266cbcf22a68db0800000000000000
+      internalID: -4789962827496005109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11006ad608b0ca60800000000000000
+      internalID: 7692350503121846559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a819136fe920711b0800000000000000
+      internalID: -5686073122773429878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cc0b0cf46bc79f0800000000000000
+      internalID: -469299807501890529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a4866c8c5740230800000000000000
+      internalID: 3604135106985871973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb93c2d66c92dcb0800000000000000
+      internalID: -4840634684033229900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b052d132269c800800000000000000
+      internalID: 633145125574609706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408d7f19668f91810800000000000000
+      internalID: 1736692250747328516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3660779fce20f880800000000000000
+      internalID: -8579305821006961090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73032da784b490b40800000000000000
+      internalID: 5406935602305314871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb08a5e493bc8d220800000000000000
+      internalID: 2510980239247179964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98fa803f2793ea10800000000000000
+      internalID: 1937558493633116315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e19c73528d7996c0800000000000000
+      internalID: -4136136784063196703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5191cf92e51e570800000000000000
+      internalID: 8494173906613638599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a393acb4af07d0a0800000000000000
+      internalID: -6856994707434400856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee2d95a08f5d2310800000000000000
+      internalID: 1381865666811604708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a370a525d2bd170800000000000000
+      internalID: 8204200977906481717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1177c1818c5e3b0800000000000000
+      internalID: -5483756965371375110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96c9c2ba910c3500800000000000000
+      internalID: 377178232728438430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8fa0cc9190b51b0800000000000000
+      internalID: -5666925699713533758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40584cd0eddda720800000000000000
+      internalID: 2859185296288272461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58248ba82d83ed1b0800000000000000
+      internalID: -5630000007244922235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d55791ac6d2169e0800000000000000
+      internalID: -1629971645540641319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff87629646bc6da0800000000000000
+      internalID: -5950180593443041292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5e60dc900f9ba50800000000000000
+      internalID: 6537520258990138874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106ac23ffd4544350800000000000000
+      internalID: 6000013924398573057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2624aff9de92d5420800000000000000
+      internalID: 2620296658767463010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4423b1ee541f3a440800000000000000
+      internalID: 4946062098432733764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3780ad6ebcf6edb0800000000000000
+      internalID: -4762841661084498116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae2407a40c949fd0800000000000000
+      internalID: -2336070762902573404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9e906a5492dbe70800000000000000
+      internalID: 9132500998492383727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8cb60dacd549610800000000000000
+      internalID: 1627028491049093288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081be9d88b0cf95e0800000000000000
+      internalID: -1900588618844556928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8405905f2d1755e0800000000000000
+      internalID: -1921034626997615473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a56a8ec38b76560800000000000000
+      internalID: 7307011492172683827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ad50440e9af6bc0800000000000000
+      internalID: -3787621980916295077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819f312526f50c110800000000000000
+      internalID: 1279127170061695256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d16cdf2be17aa7e0800000000000000
+      internalID: -1753463849973161518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f2839cc23ecdd30800000000000000
+      internalID: 4457687512683917062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fe4c698e959aae0800000000000000
+      internalID: -1537598942273540227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105f30cef7a5cba20800000000000000
+      internalID: 3079435750681605377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa62d6ff9eb72ec60800000000000000
+      internalID: 7845969745775765162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816fb0b8b9cce0d30800000000000000
+      internalID: 4399678854412367384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe4e0d7c84926130800000000000000
+      internalID: 3558569986690535161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4482b59dc4124190800000000000000
+      internalID: -7979792716534741937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682ecbd4a6fc732d0800000000000000
+      internalID: -3298940146547891578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f5bc601dfa6d280800000000000000
+      internalID: -9018827891465822400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831eb8bc7e706e620800000000000000
+      internalID: 2802936510218494264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1f55f325d4ffb40800000000000000
+      internalID: 5476180687551066531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e29b6ec0da72470800000000000000
+      internalID: 8369848703413464626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_50
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62f5471ccbe123d0800000000000000
+      internalID: -3233043795678989718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0022acc074ef75a0800000000000000
+      internalID: -6521242562288541683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e66db7f345453040800000000000000
+      internalID: 4626680350414563048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958652ea638462800800000000000000
+      internalID: 587236201105549401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e99fc92c48163080800000000000000
+      internalID: -9208145672714348058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ccb31727db8f900800000000000000
+      internalID: 718532439789259882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd53805917909680800000000000000
+      internalID: -8750327941000110643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952b246ad84f88e50800000000000000
+      internalID: 6811963325614830169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b146764bbd3115140800000000000000
+      internalID: 4706564919924319259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d067f33df61df50800000000000000
+      internalID: 6904422656829164800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0373b7f87e4bc8cd0800000000000000
+      internalID: -2554467981988251856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a831d279c2950530800000000000000
+      internalID: 3820621252806129828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d551c0fc379f260800000000000000
+      internalID: 7131858818016042268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_63
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e70acf320a23c300800000000000000
+      internalID: 271106591720867814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f70603f05cbf4e0800000000000000
+      internalID: -1946745744880795864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df9c5eeab3953270800000000000000
+      internalID: 8229646325161697232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d6fac60afbec640800000000000000
+      internalID: 5102226123596459371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a710c5dc6557bda40800000000000000
+      internalID: 5394033994379297146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfaafc069672fc30800000000000000
+      internalID: 4391702973474582465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65c43430af3d6110800000000000000
+      internalID: 1255729828409427310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd73db189f1a4bae0800000000000000
+      internalID: -1534423480030906401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f73be3aee0c4dd0800000000000000
+      internalID: -2500607293860380836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade8439a68e548b30800000000000000
+      internalID: 4288656677620977370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8748a9d334c4c8300800000000000000
+      internalID: 255663130533332088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41be7a0a5e1821f70800000000000000
+      internalID: 9156523815640492820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396d6e2ffaf803e50800000000000000
+      internalID: 6787082624304600723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_76
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b713e5719f9a9d10800000000000000
+      internalID: 2133192820610242486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ed304efef2dd4e0800000000000000
+      internalID: -1955353955839779191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59e5c5891a6bca70800000000000000
+      internalID: 8848282550750538076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f743e8e19e6bd7620800000000000000
+      internalID: 2773574057886364799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcea9c742e1beed0800000000000000
+      internalID: -2383778435704361762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efe3076e2801ff30800000000000000
+      internalID: 4607472889166557153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c8b9456e8de5160800000000000000
+      internalID: 7016283753263369278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ea3e8dac1f36b00800000000000000
+      internalID: 820765410636050028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04895259da8e3120800000000000000
+      internalID: 2395504717801817100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28b85c85ab560650800000000000000
+      internalID: 6198742703704422442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d7c4370c13310f0800000000000000
+      internalID: -1147518777411469981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac26fa80c19a36f60800000000000000
+      internalID: 8026444898774246090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dfb16d163b6e7f0800000000000000
+      internalID: -583581868912542384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_89
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582d7e2b17386c1b0800000000000000
+      internalID: -5636673359251516795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a17b271bcc75900800000000000000
+      internalID: 673231731821058620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353aaef076ce6e650800000000000000
+      internalID: 6261952259298075475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_92
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec93b4e8106553a0800000000000000
+      internalID: -6677325212474434327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427bbfff66ef07910800000000000000
+      internalID: 1833244766674597668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_94
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aa0036f33b3dd20800000000000000
+      internalID: 3302180036618005087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0310caeda41fd6a0800000000000000
+      internalID: -6422391806406683891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_96
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ea464125b700110800000000000000
+      internalID: 1225114691104452227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b515568a3c4cac0800000000000000
+      internalID: -3835725854591067325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_98
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772bab86ff0f68890800000000000000
+      internalID: -7456007153300884873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9545d5cf616a922a0800000000000000
+      internalID: -6761690747866622887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_100
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d192ccb10905d9d80800000000000000
+      internalID: -8242343163146262243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2560e956d11d7760800000000000000
+      internalID: 7457136170323961133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_102
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c120a60604f6ec320800000000000000
+      internalID: 2580121958816023068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ae116fe0d5e0f80800000000000000
+      internalID: -8138465157772613007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29941f01b1a300c70800000000000000
+      internalID: 8935205548625840530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d38c48e2800d230800000000000000
+      internalID: 3661435492941446514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51cbf4ba8cac1810800000000000000
+      internalID: 1737453268000031069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab9aa203cfdc06e0800000000000000
+      internalID: -1869873716609246300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c2e859cf36a3e80800000000000000
+      internalID: -8198130235182535605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1af9731a8cb2d80800000000000000
+      internalID: -8274299295614656084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f0372062ff6fd90800000000000000
+      internalID: -7064178426769109209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1060cba18ad9c10800000000000000
+      internalID: 2061989037182681506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8fc28410d2a6de0800000000000000
+      internalID: -1339208455660177174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_113
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584440517b0cb0dc0800000000000000
+      internalID: -3671629178626358139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f037d130ed257ef0800000000000000
+      internalID: -111132174868598543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_115
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06742da2fcdadb290800000000000000
+      internalID: -7872945468285499552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunkGEN Asset pack - Downgraded pallet_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe6f99a5461d3490800000000000000
+      internalID: -7765025694062514437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ced41e8b340c02540ad4e3b38cce172d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChunkGEN Asset pack - Downgraded pallet_0: -4789962827496005109
+      ChunkGEN Asset pack - Downgraded pallet_1: 7692350503121846559
+      ChunkGEN Asset pack - Downgraded pallet_10: 2510980239247179964
+      ChunkGEN Asset pack - Downgraded pallet_100: -8242343163146262243
+      ChunkGEN Asset pack - Downgraded pallet_101: 7457136170323961133
+      ChunkGEN Asset pack - Downgraded pallet_102: 2580121958816023068
+      ChunkGEN Asset pack - Downgraded pallet_103: -8138465157772613007
+      ChunkGEN Asset pack - Downgraded pallet_104: 8935205548625840530
+      ChunkGEN Asset pack - Downgraded pallet_105: 3661435492941446514
+      ChunkGEN Asset pack - Downgraded pallet_106: 1737453268000031069
+      ChunkGEN Asset pack - Downgraded pallet_107: -1869873716609246300
+      ChunkGEN Asset pack - Downgraded pallet_108: -8198130235182535605
+      ChunkGEN Asset pack - Downgraded pallet_109: -8274299295614656084
+      ChunkGEN Asset pack - Downgraded pallet_11: 1937558493633116315
+      ChunkGEN Asset pack - Downgraded pallet_110: -7064178426769109209
+      ChunkGEN Asset pack - Downgraded pallet_111: 2061989037182681506
+      ChunkGEN Asset pack - Downgraded pallet_112: -1339208455660177174
+      ChunkGEN Asset pack - Downgraded pallet_113: -3671629178626358139
+      ChunkGEN Asset pack - Downgraded pallet_114: -111132174868598543
+      ChunkGEN Asset pack - Downgraded pallet_115: -7872945468285499552
+      ChunkGEN Asset pack - Downgraded pallet_116: -7765025694062514437
+      ChunkGEN Asset pack - Downgraded pallet_12: -4136136784063196703
+      ChunkGEN Asset pack - Downgraded pallet_13: 8494173906613638599
+      ChunkGEN Asset pack - Downgraded pallet_14: -6856994707434400856
+      ChunkGEN Asset pack - Downgraded pallet_15: 1381865666811604708
+      ChunkGEN Asset pack - Downgraded pallet_16: 8204200977906481717
+      ChunkGEN Asset pack - Downgraded pallet_17: -5483756965371375110
+      ChunkGEN Asset pack - Downgraded pallet_18: 377178232728438430
+      ChunkGEN Asset pack - Downgraded pallet_19: -5666925699713533758
+      ChunkGEN Asset pack - Downgraded pallet_2: -5686073122773429878
+      ChunkGEN Asset pack - Downgraded pallet_20: 2859185296288272461
+      ChunkGEN Asset pack - Downgraded pallet_21: -5630000007244922235
+      ChunkGEN Asset pack - Downgraded pallet_22: -1629971645540641319
+      ChunkGEN Asset pack - Downgraded pallet_23: -5950180593443041292
+      ChunkGEN Asset pack - Downgraded pallet_24: 6537520258990138874
+      ChunkGEN Asset pack - Downgraded pallet_25: 6000013924398573057
+      ChunkGEN Asset pack - Downgraded pallet_26: 2620296658767463010
+      ChunkGEN Asset pack - Downgraded pallet_27: 4946062098432733764
+      ChunkGEN Asset pack - Downgraded pallet_28: -4762841661084498116
+      ChunkGEN Asset pack - Downgraded pallet_29: -2336070762902573404
+      ChunkGEN Asset pack - Downgraded pallet_3: -469299807501890529
+      ChunkGEN Asset pack - Downgraded pallet_30: 9132500998492383727
+      ChunkGEN Asset pack - Downgraded pallet_31: 1627028491049093288
+      ChunkGEN Asset pack - Downgraded pallet_32: -1900588618844556928
+      ChunkGEN Asset pack - Downgraded pallet_33: -1921034626997615473
+      ChunkGEN Asset pack - Downgraded pallet_34: 7307011492172683827
+      ChunkGEN Asset pack - Downgraded pallet_35: -3787621980916295077
+      ChunkGEN Asset pack - Downgraded pallet_36: 1279127170061695256
+      ChunkGEN Asset pack - Downgraded pallet_37: -1753463849973161518
+      ChunkGEN Asset pack - Downgraded pallet_38: 4457687512683917062
+      ChunkGEN Asset pack - Downgraded pallet_39: -1537598942273540227
+      ChunkGEN Asset pack - Downgraded pallet_4: 3604135106985871973
+      ChunkGEN Asset pack - Downgraded pallet_40: 3079435750681605377
+      ChunkGEN Asset pack - Downgraded pallet_41: 7845969745775765162
+      ChunkGEN Asset pack - Downgraded pallet_42: 4399678854412367384
+      ChunkGEN Asset pack - Downgraded pallet_43: 3558569986690535161
+      ChunkGEN Asset pack - Downgraded pallet_44: -7979792716534741937
+      ChunkGEN Asset pack - Downgraded pallet_45: -3298940146547891578
+      ChunkGEN Asset pack - Downgraded pallet_46: -9018827891465822400
+      ChunkGEN Asset pack - Downgraded pallet_47: 2802936510218494264
+      ChunkGEN Asset pack - Downgraded pallet_48: 5476180687551066531
+      ChunkGEN Asset pack - Downgraded pallet_49: 8369848703413464626
+      ChunkGEN Asset pack - Downgraded pallet_5: -4840634684033229900
+      ChunkGEN Asset pack - Downgraded pallet_50: -3233043795678989718
+      ChunkGEN Asset pack - Downgraded pallet_51: -6521242562288541683
+      ChunkGEN Asset pack - Downgraded pallet_52: 4626680350414563048
+      ChunkGEN Asset pack - Downgraded pallet_53: 587236201105549401
+      ChunkGEN Asset pack - Downgraded pallet_54: -9208145672714348058
+      ChunkGEN Asset pack - Downgraded pallet_55: 718532439789259882
+      ChunkGEN Asset pack - Downgraded pallet_56: -8750327941000110643
+      ChunkGEN Asset pack - Downgraded pallet_57: 6811963325614830169
+      ChunkGEN Asset pack - Downgraded pallet_58: 4706564919924319259
+      ChunkGEN Asset pack - Downgraded pallet_59: 6904422656829164800
+      ChunkGEN Asset pack - Downgraded pallet_6: 633145125574609706
+      ChunkGEN Asset pack - Downgraded pallet_60: -2554467981988251856
+      ChunkGEN Asset pack - Downgraded pallet_61: 3820621252806129828
+      ChunkGEN Asset pack - Downgraded pallet_62: 7131858818016042268
+      ChunkGEN Asset pack - Downgraded pallet_63: 271106591720867814
+      ChunkGEN Asset pack - Downgraded pallet_64: -1946745744880795864
+      ChunkGEN Asset pack - Downgraded pallet_65: 8229646325161697232
+      ChunkGEN Asset pack - Downgraded pallet_66: 5102226123596459371
+      ChunkGEN Asset pack - Downgraded pallet_67: 5394033994379297146
+      ChunkGEN Asset pack - Downgraded pallet_68: 4391702973474582465
+      ChunkGEN Asset pack - Downgraded pallet_69: 1255729828409427310
+      ChunkGEN Asset pack - Downgraded pallet_7: 1736692250747328516
+      ChunkGEN Asset pack - Downgraded pallet_70: -1534423480030906401
+      ChunkGEN Asset pack - Downgraded pallet_71: -2500607293860380836
+      ChunkGEN Asset pack - Downgraded pallet_72: 4288656677620977370
+      ChunkGEN Asset pack - Downgraded pallet_73: 255663130533332088
+      ChunkGEN Asset pack - Downgraded pallet_74: 9156523815640492820
+      ChunkGEN Asset pack - Downgraded pallet_75: 6787082624304600723
+      ChunkGEN Asset pack - Downgraded pallet_76: 2133192820610242486
+      ChunkGEN Asset pack - Downgraded pallet_77: -1955353955839779191
+      ChunkGEN Asset pack - Downgraded pallet_78: 8848282550750538076
+      ChunkGEN Asset pack - Downgraded pallet_79: 2773574057886364799
+      ChunkGEN Asset pack - Downgraded pallet_8: -8579305821006961090
+      ChunkGEN Asset pack - Downgraded pallet_80: -2383778435704361762
+      ChunkGEN Asset pack - Downgraded pallet_81: 4607472889166557153
+      ChunkGEN Asset pack - Downgraded pallet_82: 7016283753263369278
+      ChunkGEN Asset pack - Downgraded pallet_83: 820765410636050028
+      ChunkGEN Asset pack - Downgraded pallet_84: 2395504717801817100
+      ChunkGEN Asset pack - Downgraded pallet_85: 6198742703704422442
+      ChunkGEN Asset pack - Downgraded pallet_86: -1147518777411469981
+      ChunkGEN Asset pack - Downgraded pallet_87: 8026444898774246090
+      ChunkGEN Asset pack - Downgraded pallet_88: -583581868912542384
+      ChunkGEN Asset pack - Downgraded pallet_89: -5636673359251516795
+      ChunkGEN Asset pack - Downgraded pallet_9: 5406935602305314871
+      ChunkGEN Asset pack - Downgraded pallet_90: 673231731821058620
+      ChunkGEN Asset pack - Downgraded pallet_91: 6261952259298075475
+      ChunkGEN Asset pack - Downgraded pallet_92: -6677325212474434327
+      ChunkGEN Asset pack - Downgraded pallet_93: 1833244766674597668
+      ChunkGEN Asset pack - Downgraded pallet_94: 3302180036618005087
+      ChunkGEN Asset pack - Downgraded pallet_95: -6422391806406683891
+      ChunkGEN Asset pack - Downgraded pallet_96: 1225114691104452227
+      ChunkGEN Asset pack - Downgraded pallet_97: -3835725854591067325
+      ChunkGEN Asset pack - Downgraded pallet_98: -7456007153300884873
+      ChunkGEN Asset pack - Downgraded pallet_99: -6761690747866622887
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
