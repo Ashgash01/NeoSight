@@ -1,0 +1,4 @@
+repository "NeoSight@lucaf8565@cloud"
+  path "/"
+    br "/main"
+    co "/main"
