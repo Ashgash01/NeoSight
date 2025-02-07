@@ -104,6 +104,10 @@ PrefabInstance:
       propertyPath: ID
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6020350588682224804, guid: 000c275a1b259724e827a35ca1ed5c82, type: 3}
+      propertyPath: Name
+      value: Speed Potion
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
