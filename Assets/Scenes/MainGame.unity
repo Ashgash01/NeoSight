@@ -129,13 +129,14 @@ GameObject:
   m_Component:
   - component: {fileID: 394925392}
   - component: {fileID: 394925393}
+  - component: {fileID: 394925394}
   m_Layer: 5
   m_Name: MouseFollower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &394925392
 RectTransform:
   m_ObjectHideFlags: 0
@@ -170,6 +171,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_HorizontalFit: 1
   m_VerticalFit: 1
+--- !u!114 &394925394
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 394925391}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a799445c2cc7c54fba768d77dd08854, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  canvas: {fileID: 0}
+  item: {fileID: 0}
 --- !u!1 &603341472
 GameObject:
   m_ObjectHideFlags: 0
@@ -486,7 +501,7 @@ MonoBehaviour:
   moveSpeed: 2
   tr: {fileID: 816460650}
   dashingPower: 16
-  dashingCooldown: 1
+  dashingCooldown: 0
 --- !u!50 &816460646
 Rigidbody2D:
   serializedVersion: 5
@@ -735,7 +750,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventoryUI: {fileID: 668529776}
-  inventorySize: 7
+  inventoryData: {fileID: 11400000, guid: d9283c47e7a501f4d8dc9dcfc1f8c519, type: 2}
+  initialItems:
+  - quantity: 64
+    item: {fileID: 11400000, guid: 59e06d32a0a00d945b2d33e2c9b8069b, type: 2}
+  - quantity: 5
+    item: {fileID: 11400000, guid: 59e06d32a0a00d945b2d33e2c9b8069b, type: 2}
+  - quantity: 1
+    item: {fileID: 11400000, guid: e4b33a63bdd05934aae489dbd7ae8199, type: 2}
+  - quantity: 0
+    item: {fileID: 0}
 --- !u!1 &1241556633
 GameObject:
   m_ObjectHideFlags: 0
@@ -1218,9 +1242,33 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3549041234212880259, guid: 7edb169861e11df4fa5861071b77241f, type: 3}
+      propertyPath: image
+      value: 
+      objectReference: {fileID: -1258592650, guid: 762b4d5c38813504da8ae2a39027a751, type: 3}
+    - target: {fileID: 3549041234212880259, guid: 7edb169861e11df4fa5861071b77241f, type: 3}
+      propertyPath: title
+      value: Vest
+      objectReference: {fileID: 0}
+    - target: {fileID: 3549041234212880259, guid: 7edb169861e11df4fa5861071b77241f, type: 3}
+      propertyPath: image2
+      value: 
+      objectReference: {fileID: -1700931946, guid: 762b4d5c38813504da8ae2a39027a751, type: 3}
+    - target: {fileID: 3549041234212880259, guid: 7edb169861e11df4fa5861071b77241f, type: 3}
+      propertyPath: quantity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3549041234212880259, guid: 7edb169861e11df4fa5861071b77241f, type: 3}
       propertyPath: itemPrefab
       value: 
       objectReference: {fileID: 5721150521154887531, guid: fb07e682a122ccc498016746eeb1cf60, type: 3}
+    - target: {fileID: 3549041234212880259, guid: 7edb169861e11df4fa5861071b77241f, type: 3}
+      propertyPath: description
+      value: Warms you....
+      objectReference: {fileID: 0}
+    - target: {fileID: 3549041234212880259, guid: 7edb169861e11df4fa5861071b77241f, type: 3}
+      propertyPath: mouseFollower
+      value: 
+      objectReference: {fileID: 394925394}
     - target: {fileID: 3549041234212880259, guid: 7edb169861e11df4fa5861071b77241f, type: 3}
       propertyPath: itemDescription
       value: 

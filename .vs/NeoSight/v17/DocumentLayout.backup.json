@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Welmien\\Documents\\GitHub\\NeoSight\\",
+  "WorkspaceRootPath": "C:\\Users\\AshGash\\NeoSight\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|c:\\users\\welmien\\documents\\github\\neosight\\assets\\scripts\\inventoryitems\\uiinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryitems\\uiinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|c:\\users\\welmien\\documents\\github\\neosight\\assets\\scripts\\inventoryitems\\uiinventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|c:\\users\\ashgash\\neosight\\assets\\scripts\\inventoryitems\\uiinventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryitems\\uiinventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|c:\\users\\welmien\\documents\\github\\neosight\\assets\\scripts\\inventoryitems\\inventorycontrollerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryitems\\inventorycontrollerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|C:\\Users\\AshGash\\NeoSight\\assets\\scripts\\inventoryitems\\uiinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryitems\\uiinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|C:\\Users\\Welmien\\Documents\\GitHub\\NeoSight\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|c:\\users\\ashgash\\neosight\\assets\\scripts\\inventoryitems\\mousefollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryitems\\mousefollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UIInventoryItem.cs",
-              "DocumentMoniker": "C:\\Users\\Welmien\\Documents\\GitHub\\NeoSight\\Assets\\Scripts\\InventoryItems\\UIInventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\UIInventoryItem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryItems\\UIInventoryItem.cs",
-              "ToolTip": "C:\\Users\\Welmien\\Documents\\GitHub\\NeoSight\\Assets\\Scripts\\InventoryItems\\UIInventoryItem.cs",
+              "ToolTip": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\UIInventoryItem.cs",
               "RelativeToolTip": "Assets\\Scripts\\InventoryItems\\UIInventoryItem.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAA8wEMAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwDAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T18:55:51.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InventoryControllerUI.cs",
-              "DocumentMoniker": "C:\\Users\\Welmien\\Documents\\GitHub\\NeoSight\\Assets\\Scripts\\InventoryItems\\InventoryControllerUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryItems\\InventoryControllerUI.cs",
-              "ToolTip": "C:\\Users\\Welmien\\Documents\\GitHub\\NeoSight\\Assets\\Scripts\\InventoryItems\\InventoryControllerUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InventoryItems\\InventoryControllerUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T17:29:06.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UIInventoryPage.cs",
-              "DocumentMoniker": "C:\\Users\\Welmien\\Documents\\GitHub\\NeoSight\\Assets\\Scripts\\InventoryItems\\UIInventoryPage.cs",
+              "DocumentMoniker": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\UIInventoryPage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryItems\\UIInventoryPage.cs",
-              "ToolTip": "C:\\Users\\Welmien\\Documents\\GitHub\\NeoSight\\Assets\\Scripts\\InventoryItems\\UIInventoryPage.cs",
+              "ToolTip": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\UIInventoryPage.cs",
               "RelativeToolTip": "Assets\\Scripts\\InventoryItems\\UIInventoryPage.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwBoAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAtwHwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T16:51:40.077Z",
+              "WhenOpened": "2025-02-17T10:41:19.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\Welmien\\Documents\\GitHub\\NeoSight\\Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\Welmien\\Documents\\GitHub\\NeoSight\\Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAUwEgAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MouseFollower.cs",
+              "DocumentMoniker": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\MouseFollower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryItems\\MouseFollower.cs",
+              "ToolTip": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\MouseFollower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventoryItems\\MouseFollower.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T10:28:16.202Z"
+              "WhenOpened": "2025-02-17T10:27:57.976Z",
+              "EditorCaption": ""
             }
           ]
         }

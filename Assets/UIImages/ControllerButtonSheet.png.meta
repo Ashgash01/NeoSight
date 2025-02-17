@@ -183,6 +183,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -859,7 +872,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ControllerButtonSheet_0: 8438369195460333024
+      ControllerButtonSheet_1: -7904791311496782213
+      ControllerButtonSheet_10: -8329210482929792399
+      ControllerButtonSheet_11: 8362574525172388017
+      ControllerButtonSheet_12: 3016610497948654549
+      ControllerButtonSheet_13: 8865640126131351208
+      ControllerButtonSheet_14: 904771390808624500
+      ControllerButtonSheet_15: -8539129236995956245
+      ControllerButtonSheet_16: 3024896472348736243
+      ControllerButtonSheet_17: -1086570404321811
+      ControllerButtonSheet_18: 2390585438115384652
+      ControllerButtonSheet_19: -4319869974509225915
+      ControllerButtonSheet_2: -236672301963130512
+      ControllerButtonSheet_20: 6862060268028130862
+      ControllerButtonSheet_21: 2473249455960406707
+      ControllerButtonSheet_22: 5833392716221258536
+      ControllerButtonSheet_23: 8657297053989101457
+      ControllerButtonSheet_24: -3338433256335001929
+      ControllerButtonSheet_25: -3720957253809786888
+      ControllerButtonSheet_26: 3129014626171113506
+      ControllerButtonSheet_27: -8802597272606419371
+      ControllerButtonSheet_28: 7213670148318888005
+      ControllerButtonSheet_29: 6920945036939694655
+      ControllerButtonSheet_3: 4303051368756908033
+      ControllerButtonSheet_4: -3620904345322055526
+      ControllerButtonSheet_5: -1642613307719462548
+      ControllerButtonSheet_6: 2172433513398127043
+      ControllerButtonSheet_7: -3952411995196007766
+      ControllerButtonSheet_8: 7752627678584930950
+      ControllerButtonSheet_9: 3086159678494991475
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
