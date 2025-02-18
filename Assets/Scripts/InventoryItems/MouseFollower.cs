@@ -1,13 +1,17 @@
-using UnityEngine;
-using System.Collections;
 using Inventory.UI;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
 public class MouseFollower : MonoBehaviour
 {
-    [SerializeField] private Canvas canvas;
-    [SerializeField] private UIInventoryItem item;
+    [SerializeField]
+    private Canvas canvas;
 
-    private void Awake()
+    [SerializeField]
+    private UIInventoryItem item;
+
+    public void Awake()
     {
         canvas = transform.root.GetComponent<Canvas>();
         item = GetComponentInChildren<UIInventoryItem>();
@@ -17,11 +21,15 @@ public class MouseFollower : MonoBehaviour
     {
         item.SetData(sprite, quantity);
     }
-
-    private void Update()
+    void Update()
     {
         Vector2 position;
-        RectTransformUtility.ScreenPointToLocalPointInRectangle((RectTransform)canvas.transform, Input.mousePosition, canvas.worldCamera, out position);
+        RectTransformUtility.ScreenPointToLocalPointInRectangle(
+            (RectTransform)canvas.transform,
+            Input.mousePosition,
+            canvas.worldCamera,
+            out position
+                );
         transform.position = Input.mousePosition;
     }
 

@@ -37,6 +37,13 @@ public class VolumeSettings : MonoBehaviour
         myMixer.SetFloat("MasterVolume", volume);
         PlayerPrefs.SetFloat("MasterVolume", volume);
     }
+    
+    public void SetEffectVolume()
+    {
+        float volume = masterSlider.value;
+        myMixer.SetFloat("EffectVolume", volume);
+        PlayerPrefs.SetFloat("EffectVolume", volume);
+    }
 
     public void LoadVolume()
     {

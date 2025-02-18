@@ -318,7 +318,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemImage: {fileID: 3946073354315147451}
-  quantityText: {fileID: 731963474539011909}
+  quantityTxt: {fileID: 731963474539011909}
   borderImage: {fileID: 8278399007545966937}
 --- !u!1 &8864942094517825286
 GameObject:
