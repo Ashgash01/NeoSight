@@ -1,58 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AshGash\\NeoSight\\",
+  "WorkspaceRootPath": "C:\\Users\\Welmien\\Documents\\GitHub\\NeoSight\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|C:\\Users\\AshGash\\NeoSight\\assets\\scripts\\inventoryitems\\datastructure\\itemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryitems\\datastructure\\itemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|c:\\users\\ashgash\\neosight\\assets\\scripts\\inventoryitems\\datastructure\\edibleitemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryitems\\datastructure\\edibleitemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|c:\\users\\ashgash\\neosight\\assets\\item\\itemmodifiers\\characterstatmodifierso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\item\\itemmodifiers\\characterstatmodifierso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|C:\\Users\\AshGash\\NeoSight\\assets\\scripts\\inventoryitems\\mousefollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryitems\\mousefollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|C:\\Users\\AshGash\\NeoSight\\assets\\scripts\\inventoryitems\\uiinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryitems\\uiinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|C:\\Users\\AshGash\\NeoSight\\assets\\scripts\\audio\\volumesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audio\\volumesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|C:\\Users\\AshGash\\NeoSight\\assets\\scripts\\pickupsystem\\pickupsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickupsystem\\pickupsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|C:\\Users\\AshGash\\NeoSight\\assets\\scripts\\pickupsystem\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickupsystem\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|C:\\Users\\AshGash\\NeoSight\\assets\\scripts\\inventoryitems\\uiinventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryitems\\uiinventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|C:\\Users\\AshGash\\NeoSight\\assets\\scripts\\inventoryitems\\datastructure\\inventoryso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryitems\\datastructure\\inventoryso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|C:\\Users\\AshGash\\NeoSight\\assets\\scripts\\inventoryitems\\itemactionpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryitems\\itemactionpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|C:\\Users\\AshGash\\NeoSight\\assets\\scripts\\inventoryitems\\inventorycontrollerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryitems\\inventorycontrollerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|C:\\Users\\AshGash\\NeoSight\\assets\\item\\itemparameters\\itemparameterso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\item\\itemparameters\\itemparameterso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|c:\\users\\welmien\\documents\\github\\neosight\\assets\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C56F315-29E2-2647-75B6-ECECD379EF59}|Assembly-CSharp.csproj|solutionrelative:assets\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,166 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CharacterStatModifierSO.cs",
-              "DocumentMoniker": "C:\\Users\\AshGash\\NeoSight\\Assets\\Item\\ItemModifiers\\CharacterStatModifierSO.cs",
-              "RelativeDocumentMoniker": "Assets\\Item\\ItemModifiers\\CharacterStatModifierSO.cs",
-              "ToolTip": "C:\\Users\\AshGash\\NeoSight\\Assets\\Item\\ItemModifiers\\CharacterStatModifierSO.cs",
-              "RelativeToolTip": "Assets\\Item\\ItemModifiers\\CharacterStatModifierSO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T20:29:03.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EdibleItemSO.cs",
-              "DocumentMoniker": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\DataStructure\\EdibleItemSO.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryItems\\DataStructure\\EdibleItemSO.cs",
-              "ToolTip": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\DataStructure\\EdibleItemSO.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InventoryItems\\DataStructure\\EdibleItemSO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T20:22:59.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VolumeSettings.cs",
-              "DocumentMoniker": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\Audio\\VolumeSettings.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\VolumeSettings.cs",
-              "ToolTip": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\Audio\\VolumeSettings.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Audio\\VolumeSettings.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T19:43:57.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MouseFollower.cs",
-              "DocumentMoniker": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\MouseFollower.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryItems\\MouseFollower.cs",
-              "ToolTip": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\MouseFollower.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InventoryItems\\MouseFollower.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T19:35:31.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ItemActionPanel.cs",
-              "DocumentMoniker": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\ItemActionPanel.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryItems\\ItemActionPanel.cs",
-              "ToolTip": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\ItemActionPanel.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InventoryItems\\ItemActionPanel.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwCMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T19:18:45.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UIInventoryPage.cs",
-              "DocumentMoniker": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\UIInventoryPage.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryItems\\UIInventoryPage.cs",
-              "ToolTip": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\UIInventoryPage.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InventoryItems\\UIInventoryPage.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAqwKwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T19:15:04.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UIInventoryItem.cs",
-              "DocumentMoniker": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\UIInventoryItem.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryItems\\UIInventoryItem.cs",
-              "ToolTip": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\UIInventoryItem.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InventoryItems\\UIInventoryItem.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAA8wFgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T19:11:19.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "InventoryControllerUI.cs",
-              "DocumentMoniker": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\InventoryControllerUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryItems\\InventoryControllerUI.cs",
-              "ToolTip": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\InventoryControllerUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InventoryItems\\InventoryControllerUI.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T19:09:02.834Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ItemSO.cs",
-              "DocumentMoniker": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\DataStructure\\ItemSO.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryItems\\DataStructure\\ItemSO.cs",
-              "ToolTip": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\DataStructure\\ItemSO.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InventoryItems\\DataStructure\\ItemSO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\Welmien\\Documents\\GitHub\\NeoSight\\Assets\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\HealthBar.cs",
+              "ToolTip": "C:\\Users\\Welmien\\Documents\\GitHub\\NeoSight\\Assets\\HealthBar.cs*",
+              "RelativeToolTip": "Assets\\HealthBar.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T19:05:41.631Z",
+              "WhenOpened": "2025-02-19T08:01:46.758Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ItemParameterSO.cs",
-              "DocumentMoniker": "C:\\Users\\AshGash\\NeoSight\\Assets\\Item\\ItemParameters\\ItemParameterSO.cs",
-              "RelativeDocumentMoniker": "Assets\\Item\\ItemParameters\\ItemParameterSO.cs",
-              "ToolTip": "C:\\Users\\AshGash\\NeoSight\\Assets\\Item\\ItemParameters\\ItemParameterSO.cs",
-              "RelativeToolTip": "Assets\\Item\\ItemParameters\\ItemParameterSO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T19:04:28.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PickUpSystem.cs",
-              "DocumentMoniker": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\PickupSystem\\PickUpSystem.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PickupSystem\\PickUpSystem.cs",
-              "ToolTip": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\PickupSystem\\PickUpSystem.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PickupSystem\\PickUpSystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T19:02:31.554Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\PickupSystem\\Item.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PickupSystem\\Item.cs",
-              "ToolTip": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\PickupSystem\\Item.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PickupSystem\\Item.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwC4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T19:01:32.266Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "InventorySO.cs",
-              "DocumentMoniker": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\DataStructure\\InventorySO.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryItems\\DataStructure\\InventorySO.cs",
-              "ToolTip": "C:\\Users\\AshGash\\NeoSight\\Assets\\Scripts\\InventoryItems\\DataStructure\\InventorySO.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InventoryItems\\DataStructure\\InventorySO.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAqwCAAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T18:56:30.794Z"
             }
           ]
         }
