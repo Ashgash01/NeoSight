@@ -11,13 +11,13 @@ public class HealthBar : MonoBehaviour
     void Start()
     {
         currentHealth = maxHealth;
-        healthText.text = "health : " + currentHealth;
+        healthText.text = "Health : " + currentHealth;
     } 
 
     public void UpdateHealth(float amount)
     {
         currentHealth += amount;
-        healthText.text = "health : " + currentHealth;
+        healthText.text = "Health : " + currentHealth;
         UpdateHealthBar();
     }
 
