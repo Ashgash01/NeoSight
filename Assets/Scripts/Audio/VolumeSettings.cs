@@ -10,6 +10,7 @@ public class VolumeSettings : MonoBehaviour
     [SerializeField] private AudioMixer myMixer;
     [SerializeField] private Slider musicSlider;
     [SerializeField] private Slider masterSlider;
+    [SerializeField] private Slider effectsSlider;
 
     private void Start()
     {
@@ -21,6 +22,7 @@ public class VolumeSettings : MonoBehaviour
         {
             SetMusicVolume();
             SetMasterVolume();
+            SetEffectVolume();
         }
     }
 
@@ -40,7 +42,7 @@ public class VolumeSettings : MonoBehaviour
     
     public void SetEffectVolume()
     {
-        float volume = masterSlider.value;
+        float volume = effectsSlider.value;
         myMixer.SetFloat("EffectVolume", volume);
         PlayerPrefs.SetFloat("EffectVolume", volume);
     }
@@ -49,8 +51,10 @@ public class VolumeSettings : MonoBehaviour
     {
         musicSlider.value = PlayerPrefs.GetFloat("MusicVolume");
         masterSlider.value = PlayerPrefs.GetFloat("MasterVolume");
+        effectsSlider.value = PlayerPrefs.GetFloat("EffectVolume");
 
         SetMusicVolume();
         SetMasterVolume();
+        SetEffectVolume();
     }
 }
