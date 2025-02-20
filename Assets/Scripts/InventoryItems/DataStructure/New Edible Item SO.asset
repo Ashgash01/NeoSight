@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c5b4a82dc4c83ae40949b511b6d59408, type: 3}
-  m_Name: AppleJuice
+  m_Name: New Edible Item SO
   m_EditorClassIdentifier: 
   <IsStackable>k__BackingField: 0
   <MaxStackSize>k__BackingField: 1
-  <Name>k__BackingField: Apple Juice
-  <Description>k__BackingField: Gives health
-  <ItemImage>k__BackingField: {fileID: 3657346987088787878, guid: 41540282d582dce44b4bcf5cf5e2c3b3, type: 3}
+  <Name>k__BackingField: 
+  <Description>k__BackingField: 
+  <ItemImage>k__BackingField: {fileID: 0}
   <DefaultParametersList>k__BackingField: []
   modifiersData:
-  - statModifier: {fileID: 11400000, guid: e8389f7788efca945a6b244c2814d194, type: 2}
-    value: 5
+  - statModifier: {fileID: 0}
+    value: 0

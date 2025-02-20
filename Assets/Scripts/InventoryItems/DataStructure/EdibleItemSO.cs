@@ -8,20 +8,16 @@ using System;
 namespace Inventory.Model
 {
     [CreateAssetMenu]
-    public class EdibleItemSO : ItemSO, IDestroyableItem, IItemAction
+    public class EdibleItemSO : ItemSO, IDestroyableItem
     {
         [SerializeField] private List<ModifierData> modifiersData = new List<ModifierData>();
         public string ActionName => "Consume";
 
         public AudioClip actionSFX {get; private set;}
 
-        public bool PerformAction(GameObject character)
+        public void PerformAction(GameObject gameObject)
         {
-            foreach (ModifierData data in modifiersData)
-            {
-                data.statModifier.AffectCharacter(character, data.value);
-            }
-            return true;
+                HealthBar.Instance.UpdateHealth(+10);
         }
     }
 

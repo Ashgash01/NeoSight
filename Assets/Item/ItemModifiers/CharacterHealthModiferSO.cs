@@ -5,6 +5,6 @@ public class CharacterHealthModiferSO : CharacterStatModifierSO
 {
     public override void AffectCharacter(GameObject character, float val)
     {
-        throw new System.NotImplementedException();
+        HealthBar.Instance.UpdateHealth(+5);
     }
 }

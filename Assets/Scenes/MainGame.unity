@@ -1076,7 +1076,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inventoryUI: {fileID: 668529776}
   inventoryData: {fileID: 11400000, guid: d9283c47e7a501f4d8dc9dcfc1f8c519, type: 2}
-  initialItems: []
+  initialItems:
+  - quantity: 2
+    item: {fileID: 11400000, guid: 998297046cbe0da448ebec28bc6898be, type: 2}
+    itemState: []
 --- !u!114 &816460652
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2596,6 +2599,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1115942518483881310, guid: 637e326308df4e64cb72e903c5c463c1, type: 3}
+      propertyPath: <Quantity>k__BackingField
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1115942518483881310, guid: 637e326308df4e64cb72e903c5c463c1, type: 3}
+      propertyPath: <InventoryItem>k__BackingField
+      value: 
+      objectReference: {fileID: 11400000, guid: 998297046cbe0da448ebec28bc6898be, type: 2}
     - target: {fileID: 6324433004912665346, guid: 637e326308df4e64cb72e903c5c463c1, type: 3}
       propertyPath: m_Name
       value: Item

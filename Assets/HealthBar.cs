@@ -6,13 +6,24 @@ public class HealthBar : MonoBehaviour
 {
     private float maxHealth = 100;
     private float currentHealth;
+    public static HealthBar Instance;
     [SerializeField] private Image healthBarFill;
     [SerializeField] private TextMeshProUGUI healthText;
-    void Start()
+
+    private void Awake()
     {
-        currentHealth = maxHealth;
-        healthText.text = "Health : " + currentHealth;
-    } 
+        if (Instance == null)
+            Instance = this;
+        else
+            Destroy(gameObject);
+    }
+
+        void Start()
+        {
+            currentHealth = maxHealth;
+            healthText.text = "Health : " + currentHealth;
+        }
+
 
     public void UpdateHealth(float amount)
     {
