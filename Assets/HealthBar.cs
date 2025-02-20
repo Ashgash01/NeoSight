@@ -9,8 +9,13 @@ public class HealthBar : MonoBehaviour
     public static HealthBar Instance;
     [SerializeField] private Image healthBarFill;
     [SerializeField] private TextMeshProUGUI healthText;
+<<<<<<< HEAD
 
     private void Awake()
+=======
+    [SerializeField] private float fillSpeed;
+    void Start()
+>>>>>>> 1d1d29b8325eb7a0c1a838ef7803e961952daa19
     {
         if (Instance == null)
             Instance = this;
@@ -28,6 +33,7 @@ public class HealthBar : MonoBehaviour
     public void UpdateHealth(float amount)
     {
         currentHealth += amount;
+        currentHealth = Mathf.Clamp(currentHealth, 0f, maxHealth);
         healthText.text = "Health : " + currentHealth;
         UpdateHealthBar();
     }
