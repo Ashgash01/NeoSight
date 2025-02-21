@@ -38,9 +38,12 @@ public class PlayerMovement : MonoBehaviour
         PlayerInput();
         UpdateAnimations();
 
-        if (Input.GetKeyDown(KeyCode.R) && canDash)
+        if(!PauseMenu.isPaused)
         {
-            StartCoroutine(Dash());
+            if (Input.GetKeyDown(KeyCode.LeftControl) && canDash)
+            {
+                StartCoroutine(Dash());
+            }
         }
     }
 
@@ -63,14 +66,17 @@ public class PlayerMovement : MonoBehaviour
 
     private void UpdateAnimations()
     {
-        isMoving = movement != Vector2.zero;
-
-        anim.SetBool("IsMoving", isMoving);
-
-        if (isMoving)
+        if (!PauseMenu.isPaused)
         {
-            anim.SetFloat("MovementX", movement.x);
-            anim.SetFloat("MovementY", movement.y);
+            isMoving = movement != Vector2.zero;
+
+            anim.SetBool("IsMoving", isMoving);
+
+            if (isMoving)
+            {
+                anim.SetFloat("MovementX", movement.x);
+                anim.SetFloat("MovementY", movement.y);
+            }
         }
     }
 

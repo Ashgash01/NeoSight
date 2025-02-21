@@ -1,23 +1,28 @@
-using NUnit.Framework;
-using UnityEngine;
+using System;
 using System.Collections;
 using System.Collections.Generic;
-using System;
-
+using UnityEngine;
 
 namespace Inventory.Model
 {
     [CreateAssetMenu]
-    public class EdibleItemSO : ItemSO, IDestroyableItem
+    public class EdibleItemSO : ItemSO, IDestroyableItem, IItemAction
     {
-        [SerializeField] private List<ModifierData> modifiersData = new List<ModifierData>();
+        [SerializeField]
+        private List<ModifierData> modifiersData = new List<ModifierData>();
+
         public string ActionName => "Consume";
 
-        public AudioClip actionSFX {get; private set;}
+        [field: SerializeField]
+        public AudioClip actionSFX { get; private set; }
 
-        public void PerformAction(GameObject gameObject)
+        public bool PerformAction(GameObject character, List<ItemParameter> itemState = null)
         {
-                HealthBar.Instance.UpdateHealth(+10);
+            foreach (ModifierData data in modifiersData)
+            {
+                data.statModifier.AffectCharacter(character, data.value);
+            }
+            return true;
         }
     }
 
@@ -30,7 +35,7 @@ namespace Inventory.Model
     {
         public string ActionName { get; }
         public AudioClip actionSFX { get; }
-        bool PerformAction(GameObject character);
+        bool PerformAction(GameObject character, List<ItemParameter> itemState);
     }
 
     [Serializable]
@@ -39,5 +44,4 @@ namespace Inventory.Model
         public CharacterStatModifierSO statModifier;
         public float value;
     }
-
 }

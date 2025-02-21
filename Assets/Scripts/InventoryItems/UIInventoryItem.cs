@@ -11,13 +11,9 @@ namespace Inventory.UI
     public class UIInventoryItem : MonoBehaviour, IPointerClickHandler,
         IBeginDragHandler, IEndDragHandler, IDropHandler, IDragHandler
     {
-        [SerializeField]
-        private Image itemImage;
-        [SerializeField]
-        private TMP_Text quantityTxt;
-
-        [SerializeField]
-        private Image borderImage;
+        [SerializeField] private Image itemImage;
+        [SerializeField] private TMP_Text quantityTxt;
+        [SerializeField] private Image borderImage;
 
         public event Action<UIInventoryItem> OnItemClicked,
             OnItemDroppedOn, OnItemBeginDrag, OnItemEndDrag,
@@ -41,15 +37,40 @@ namespace Inventory.UI
         }
         public void SetData(Sprite sprite, int quantity)
         {
-            itemImage.gameObject.SetActive(true);
-            itemImage.sprite = sprite;
-            quantityTxt.text = quantity + "";
+            Debug.Log($"Setting data for UIInventoryItem: Sprite = {sprite}, Quantity = {quantity}");
+            if (itemImage != null)
+            {
+                itemImage.gameObject.SetActive(true);
+                itemImage.sprite = sprite;
+            }
+            else
+            {
+                Debug.LogError("Item Image is not assigned in UIInventoryItem.");
+            }
+
+            if (quantityTxt != null)
+            {
+                quantityTxt.text = quantity + "";
+            }
+            else
+            {
+                Debug.LogError("Quantity Text is not assigned in UIInventoryItem.");
+            }
+
             empty = false;
         }
 
         public void Select()
         {
-            borderImage.enabled = true;
+            if (borderImage != null)
+            {
+                borderImage.enabled = true;
+                Debug.Log("Border image enabled for UIInventoryItem.");
+            }
+            else
+            {
+                Debug.LogError("Border Image is not assigned in UIInventoryItem.");
+            }
         }
 
         public void OnPointerClick(PointerEventData pointerData)

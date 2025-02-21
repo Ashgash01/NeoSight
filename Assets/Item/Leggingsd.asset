@@ -9,15 +9,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c5b4a82dc4c83ae40949b511b6d59408, type: 3}
-  m_Name: New Edible Item SO
+  m_Script: {fileID: 11500000, guid: 2ffca269103352748a7b17feca4f3190, type: 3}
+  m_Name: Leggingsd
   m_EditorClassIdentifier: 
   <IsStackable>k__BackingField: 0
   <MaxStackSize>k__BackingField: 1
-  <Name>k__BackingField: 
-  <Description>k__BackingField: 
-  <ItemImage>k__BackingField: {fileID: 0}
+  <Name>k__BackingField: awdawd
+  <Description>k__BackingField: awdawd
+  <ItemImage>k__BackingField: {fileID: 944282847, guid: 762b4d5c38813504da8ae2a39027a751, type: 3}
   <DefaultParametersList>k__BackingField: []
-  modifiersData:
-  - statModifier: {fileID: 0}
-    value: 0
+  SlotType: 2

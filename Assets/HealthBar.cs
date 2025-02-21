@@ -28,6 +28,7 @@ public class HealthBar : MonoBehaviour
     public void UpdateHealth(float amount)
     {
         currentHealth += amount;
+        currentHealth = Mathf.Clamp(currentHealth, 0f, maxHealth);
         healthText.text = "Health : " + currentHealth;
         UpdateHealthBar();
     }

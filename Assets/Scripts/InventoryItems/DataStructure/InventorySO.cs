@@ -9,13 +9,11 @@ namespace Inventory.Model
     [CreateAssetMenu]
     public class InventorySO : ScriptableObject
     {
-        [SerializeField]
-        private List<InventoryItem> inventoryItems;
-
+        [SerializeField] private List<InventoryItem> inventoryItems;
         [field: SerializeField]
-        public int Size { get; private set; } = 10;
-
+        public int Size { get; private set; } = 32;
         public event Action<Dictionary<int, InventoryItem>> OnInventoryUpdated;
+        private List<InventoryItem> armourItems = new List<InventoryItem>();
 
         public void Initialize()
         {
@@ -23,6 +21,36 @@ namespace Inventory.Model
             for (int i = 0; i < Size; i++)
             {
                 inventoryItems.Add(InventoryItem.GetEmptyItem());
+            }
+            armourItems.Clear();
+            for (int i = 0; i < 5; i++) // Assuming 5 armor slots
+            {
+                armourItems.Add(InventoryItem.GetEmptyItem());
+            }
+        }
+
+        public InventoryItem GetArmourItem(int slotIndex)
+        {
+            if (slotIndex >= 0 && slotIndex < armourItems.Count)
+            {
+                return armourItems[slotIndex];
+            }
+            else
+            {
+                Debug.LogError($"Invalid armor slot index: {slotIndex}");
+                return InventoryItem.GetEmptyItem();
+            }
+        }
+        public void SetArmourItem(int slotIndex, InventoryItem item)
+        {
+            if (slotIndex >= 0 && slotIndex < armourItems.Count)
+            {
+                armourItems[slotIndex] = item;
+                InformAboutChange();
+            }
+            else
+            {
+                Debug.LogError($"Invalid armor slot index: {slotIndex}");
             }
         }
 
@@ -45,15 +73,13 @@ namespace Inventory.Model
             return quantity;
         }
 
-        private int AddItemToFirstFreeSlot(ItemSO item, int quantity
-            , List<ItemParameter> itemState = null)
+        private int AddItemToFirstFreeSlot(ItemSO item, int quantity, List<ItemParameter> itemState = null)
         {
             InventoryItem newItem = new InventoryItem
             {
                 item = item,
                 quantity = quantity,
-                itemState =
-                new List<ItemParameter>(itemState == null ? item.DefaultParametersList : itemState)
+                itemState = new List<ItemParameter>(itemState == null ? item.DefaultParametersList : itemState)
             };
 
             for (int i = 0; i < inventoryItems.Count; i++)
@@ -129,15 +155,24 @@ namespace Inventory.Model
 
         public Dictionary<int, InventoryItem> GetCurrentInventoryState()
         {
-            Dictionary<int, InventoryItem> returnValue =
-                new Dictionary<int, InventoryItem>();
+            Dictionary<int, InventoryItem> returnValue = new Dictionary<int, InventoryItem>();
 
+            // Add main inventory items
             for (int i = 0; i < inventoryItems.Count; i++)
             {
                 if (inventoryItems[i].IsEmpty)
                     continue;
                 returnValue[i] = inventoryItems[i];
             }
+
+            // Add armor slot items
+            for (int i = 0; i < armourItems.Count; i++)
+            {
+                if (armourItems[i].IsEmpty)
+                    continue;
+                returnValue[i + inventoryItems.Count] = armourItems[i]; // Offset by main inventory size
+            }
+
             return returnValue;
         }
 
@@ -156,6 +191,7 @@ namespace Inventory.Model
 
         private void InformAboutChange()
         {
+            Debug.Log("Inventory updated. Triggering UI refresh.");
             OnInventoryUpdated?.Invoke(GetCurrentInventoryState());
         }
     }
