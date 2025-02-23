@@ -1143,10 +1143,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inventoryUI: {fileID: 668529776}
   inventoryData: {fileID: 11400000, guid: d9283c47e7a501f4d8dc9dcfc1f8c519, type: 2}
+<<<<<<< Updated upstream
   dropClip: {fileID: 8300000, guid: 213fe7b64aa0ba74b913c056ac0f3340, type: 3}
   audioSource: {fileID: 816460654}
   initialItems: []
   armourSlotTypes: 0000000001000000020000000300000004000000
+=======
+  initialItems:
+  - quantity: 2
+    item: {fileID: 11400000, guid: 998297046cbe0da448ebec28bc6898be, type: 2}
+    itemState: []
+  - quantity: 3
+    item: {fileID: 11400000, guid: 998297046cbe0da448ebec28bc6898be, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 1e46db6de38ad3a438b4d94937f6e832, type: 2}
+      value: 0
+>>>>>>> Stashed changes
 --- !u!114 &816460652
 MonoBehaviour:
   m_ObjectHideFlags: 0

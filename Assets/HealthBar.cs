@@ -9,8 +9,14 @@ public class HealthBar : MonoBehaviour
     public static HealthBar Instance;
     [SerializeField] private Image healthBarFill;
     [SerializeField] private TextMeshProUGUI healthText;
+<<<<<<< Updated upstream
 
     private void Awake()
+=======
+    [SerializeField] private float fillSpeed;
+
+    void Awake()
+>>>>>>> Stashed changes
     {
         if (Instance == null)
             Instance = this;
@@ -18,11 +24,13 @@ public class HealthBar : MonoBehaviour
             Destroy(gameObject);
     }
 
-        void Start()
-        {
-            currentHealth = maxHealth;
-            healthText.text = "Health : " + currentHealth;
-        }
+    
+
+    void Start()
+    {
+        currentHealth = maxHealth;
+        healthText.text = "Health : " + currentHealth;
+    }
 
 
     public void UpdateHealth(float amount)
